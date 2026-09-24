@@ -4357,5 +4357,29 @@
     "raw_type": "other",
     "researcher": "Miguel Ángel Fernández Torres",
     "orcid": "0000-0002-0801-199X"
+  },
+  {
+    "put_code": "227559393",
+    "title": "Sex-Specific Effect of the Dietary Protein to Carbohydrate Ratio on Personality in the Dubia Cockroach",
+    "type": "journal-article",
+    "journal": "Insects",
+    "date": "2022-01-27",
+    "year": "2022",
+    "doi": "10.3390/insects13020133",
+    "pmid": "",
+    "pmcid": "",
+    "url": "http://dx.doi.org/10.3390/insects13020133",
+    "authors": [
+      "Sofia Bouchebti",
+      "Fernando Cortés-Fossati",
+      "Ángela Vales Estepa",
+      "Maria Plaza Lozano",
+      "Daniel S. Calovi",
+      "Sara Arganda"
+    ],
+    "source": "{'value': 'Ángela Vales Estepa'}",
+    "raw_type": "journal-article",
+    "researcher": "Ángela Vales Estepa",
+    "orcid": "0000-0003-0778-6520"
   }
 ]
